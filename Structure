@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+/* 
+include
+<stdio.h> = library
+This file is included in the library.
+*/
+
+int main ()
+
+/*
+Returns the function to an integer
+*/
+
+{  
+
+return 0; 
+
+/*
+; = We must put it at the end of each sentence.
+return 0 = Finish the program.
+*/
+
+}
+
+// This structure does not change. // 
