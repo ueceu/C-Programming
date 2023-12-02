@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main ()
+
+{
+
+/* 	
+printf ("Hello!");	
+printf ("Welcome."); 
+
+It writes both side by side.
+"\n", which means "New Line", is used to move to the next line. 
+"\t", which means "Tab", is used to leave a space in between.
+*/
+
+printf ("Hello!\t");	
+printf ("Welcome.\n"); 
+printf ("How are you?");
+
+return 0;
+	
+}
