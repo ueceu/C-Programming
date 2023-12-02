@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main ()
+
+{
+	
+	// One comment line. For single line comments. //
+	
+	/*
+	Multiple comment lines.
+  More than one comment can be written here.
+  The compiler ignores these comment lines.
+	*/	
+	
+return 0;
+	
+}
