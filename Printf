@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main ()
+
+{
+	printf ("How are you?");
+	
+/*
+	
+printf = Fonksiyon
+
+Ekrana týrnak içini yazar. Ekrana bilgi basmak görevi.
+	
+*/
+
+return 0;
+	
+}
