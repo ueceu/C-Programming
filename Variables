@@ -1,0 +1,30 @@
+int main()
+
+{
+
+    /*
+
+Variables = A structure created to hold values.
+
+char - character datatype
+int - integer, integer data type
+float - fractional decimal
+double - more decimal fractions
+short - for small values
+long - for large values
+
+These are the ones we will generally use.
+
+*/
+
+
+/*
+
+Variable Definition
+
+Datatype variable name;
+
+*/
+
+
+}
